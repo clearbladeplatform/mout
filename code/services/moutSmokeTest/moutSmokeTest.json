@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,mout",
+    "logging_enabled": "false",
+    "name": "moutSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "moutSmokeTest.js"
+}
